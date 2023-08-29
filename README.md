@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mini projects<br>🌱 I’m currently learning React Js, Python<br><br>
+🔭 I’m currently working on mini projects<br>🌱 I’m currently learning SAP ABAP<br><br>
 
 
 ## 🌐 Socials:
